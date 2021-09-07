@@ -1,3 +1,3 @@
 # Data_science
 
-my first pull request
+my first repository
